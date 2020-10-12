@@ -1,3 +1,6 @@
 Dies ist mein Hipster-Text für git-Demo
 
 Und noch eine Zeile. das ist wichtig
+
+Und noch eine dritte Zeile
+vierte Zeile
