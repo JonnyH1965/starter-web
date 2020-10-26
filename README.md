@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Text for Contribute
+
+###CopyRight
+2020 Git
