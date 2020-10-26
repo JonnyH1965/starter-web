@@ -15,4 +15,5 @@ Sample website with plenty of files for demos
 Text for Contribute
 
 ###CopyRight
-2020 Git
+2020 Git Training
+	
