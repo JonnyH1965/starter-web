@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Text for Contribute
+Pleas fork this Repository
 
 ###CopyRight
 2020 Git Training
