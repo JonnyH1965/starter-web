@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for KH showing how Git and GitHub work
-Adding a line for rebasing example, then more changes
-from myfeature branch too.
+Test Merge instead of Rebase.
 
 ## Introduction
 
