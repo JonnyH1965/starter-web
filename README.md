@@ -2,6 +2,7 @@
 
 This repository is for KH showing how Git and GitHub work
 Test Merge instead of Rebase.
+Test Rebasing instead of Merge
 
 ## Introduction
 
