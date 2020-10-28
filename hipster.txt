@@ -1,4 +1,5 @@
 Dies ist mein Hipster-Text für git-Demo
+Aenderungen in testBranch hipster.txt
 
 Und noch eine Zeile. das ist wichtig
 
